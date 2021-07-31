@@ -19,8 +19,10 @@ const Index = () => (
         <Link to="/projects">projects</Link>, {' '}
         or <Link to="/contact">contact</Link> me.
       </p>
-      <p> Source available <a href="https://github.com/WadeVaresio/personal-site">here</a>.</p>
-      <p>This website was adapated from <a href="https://github.com/mldangelo/personal-site">Michael D&apos;Angelo&apos;s website</a></p>
+      <p> The source code for this website is available <a href="https://github.com/WadeVaresio/personal-site">here</a>.</p>
+      <p>A link to my most recent project: <a href="https://personal-tracker.wadevaresio.com">Personal Tracker</a> built with privacy in mind,
+        please find the source code on GitHub<a href="https://github.com/WadeVaresio/Personal-Tracker"> here</a>
+      </p>
     </article>
   </Main>
 );
